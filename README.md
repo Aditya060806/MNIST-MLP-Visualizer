@@ -1,12 +1,12 @@
 # MNIST MLP Visualizer
 
-![MNIST MLP Visualizer screenshot](https://raw.githubusercontent.com/DFin/Neural-Network-Visualisation/main/assets/screenshot.jpg)
+![MNIST MLP Visualizer screenshot](https://raw.githubusercontent.com/Aditya060806/MNIST-MLP-Visualizer/master/assets/screenshot.jpg)
 
 Interactive web visualisation for a compact multi-layer perceptron trained on the MNIST handwritten digit dataset. Draw a digit, watch activations propagate through the network in 3D, and inspect real-time prediction probabilities.
 
-## WIP
+## Overview
 
-This is still in a rough state and under active development. If you want something useable for a museum etc check back later. I have a couple of features in mind (like being able to connect a tablet to draw a number) to make this a good educational visualisation. 
+Interactive 3D neural network visualization built with Three.js. Features real-time digit recognition, training timeline scrubbing, and detailed neuron inspection capabilities. 
 
 
 ## Repository Layout
